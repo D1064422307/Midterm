@@ -13,3 +13,6 @@ msgText:setFillColor( 0.2, 0.6, 0.0 )
 
 local msgText2 = display.newText( "D1064422307_User2", world.x, world.y+200, native.systemFont, 32 )
 msgText2:setFillColor( 0.2, 0.0, 0.6 )
+
+local msgText3 = display.newText( "D1064422307_User1", world.x, world.y+240, native.systemFont, 32 )
+msgText3:setFillColor( 0.6, 0.2, 0.2 )
